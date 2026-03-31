@@ -12,3 +12,4 @@ C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\refint\AutoCADAutomati
 C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.pdb
 C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.genruntimeconfig.cache
 C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\ref\AutoCADAutomation.dll
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.sourcelink.json
