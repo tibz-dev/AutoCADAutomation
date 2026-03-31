@@ -1,0 +1,14 @@
+C:\Users\sesha\AutoCADAutomation\bin\Debug\net9.0-windows\AutoCADAutomation.exe
+C:\Users\sesha\AutoCADAutomation\bin\Debug\net9.0-windows\AutoCADAutomation.deps.json
+C:\Users\sesha\AutoCADAutomation\bin\Debug\net9.0-windows\AutoCADAutomation.runtimeconfig.json
+C:\Users\sesha\AutoCADAutomation\bin\Debug\net9.0-windows\AutoCADAutomation.dll
+C:\Users\sesha\AutoCADAutomation\bin\Debug\net9.0-windows\AutoCADAutomation.pdb
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.AssemblyInfoInputs.cache
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.AssemblyInfo.cs
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.csproj.CoreCompileInputs.cache
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.dll
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\refint\AutoCADAutomation.dll
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.pdb
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\AutoCADAutomation.genruntimeconfig.cache
+C:\Users\sesha\AutoCADAutomation\obj\Debug\net9.0-windows\ref\AutoCADAutomation.dll

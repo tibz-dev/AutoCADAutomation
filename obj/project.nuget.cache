@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BuJkOTEOQEk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sesha\\AutoCADAutomation\\AutoCADAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sesha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
