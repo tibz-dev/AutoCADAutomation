@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoCADAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff9c485d7bc10f6fa1b817f544ac7f7efb8e8031")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f53a3a017906888626d048dc9cd99f2763866d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoCADAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoCADAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
