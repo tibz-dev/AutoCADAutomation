@@ -25,13 +25,23 @@ How It Works
 The system uses C# with AutoCAD COM automation to:
 
 Accept user input such as dimensions and components
+
 Generate drawing geometry programmatically
+
 Create and save a DWG AutoCAD file
+
 Technologies Used
+
 C# (.NET)
+
 AutoCAD COM (ActiveX Automation)
+
 Visual Studio Code
+
 Use Cases
+
 Learning CAD automation
+
 Rapid layout prototyping
+
 Portfolio project for software and engineering roles
